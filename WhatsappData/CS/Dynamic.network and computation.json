@@ -1,0 +1,454 @@
+{
+  "metadata": {
+    "groupName": "דינמיקה, רשתות וחישוב - 67562",
+    "groupId": "120363401073199087@g.us",
+    "participantCount": 31,
+    "messageCount": 23,
+    "exportDate": "2025-09-05T21:47:58.071Z",
+    "exportedBy": "WhatsApp Data Collector v1.0"
+  },
+  "messages": [
+    {
+      "serialNumber": 1,
+      "datetime": "2025-06-09T04:35:07.000Z",
+      "messageId": "726C4130C1CD56B4AD5C20B93CDA807A",
+      "sender": {
+        "id": "972549767907@c.us",
+        "phone": "972549767907"
+      },
+      "body": "מישהו יודע אם יש שיעור היום?",
+      "replyTo": null,
+      "reactions": null
+    },
+    {
+      "serialNumber": 2,
+      "datetime": "2025-06-09T04:35:33.000Z",
+      "messageId": "3A9B59BFC8E6F90F5841",
+      "sender": {
+        "id": "972556609394@c.us",
+        "pushname": "עמית אלפר",
+        "phone": "972556609394"
+      },
+      "body": "אין שיעור היום",
+      "replyTo": null,
+      "reactions": null
+    },
+    {
+      "serialNumber": 3,
+      "datetime": "2025-06-09T04:36:05.000Z",
+      "messageId": "2EC6881B8471B2BC6735146F984C94F3",
+      "sender": {
+        "id": "972549767907@c.us",
+        "phone": "972549767907"
+      },
+      "body": "🙏🏻",
+      "replyTo": null,
+      "reactions": null
+    },
+    {
+      "serialNumber": 4,
+      "datetime": "2025-06-09T07:26:17.000Z",
+      "messageId": "A147804CB08DFFA4FF261BBFDE668222",
+      "sender": {
+        "id": "972544403396@c.us",
+        "phone": "972544403396"
+      },
+      "body": "עדיין רלוונטי",
+      "replyTo": {
+        "ref": "4DFFD8ED9B1BA81899612076EA657086",
+        "author": "76420369899761@lid",
+        "body": "מישהו קיבל פידבק על ה \nAdvanced idea for research project?"
+      },
+      "reactions": null
+    },
+    {
+      "serialNumber": 5,
+      "datetime": "2025-06-16T20:24:55.000Z",
+      "messageId": "3EB0735CDC4EDFE1E90C14",
+      "sender": {
+        "id": "972527342769@c.us",
+        "phone": "972527342769"
+      },
+      "body": "מישהו קיבל ציונים על התרגילים במקרה?",
+      "replyTo": null,
+      "reactions": null
+    },
+    {
+      "serialNumber": 6,
+      "datetime": "2025-06-16T20:37:04.000Z",
+      "messageId": "3F400187DA21F9622133",
+      "sender": "Unknown Member",
+      "body": "נראלי זה היה תרגילים בשביל הכיף לא?",
+      "replyTo": null,
+      "reactions": [
+        {
+          "emoji": "😮",
+          "count": 1,
+          "reactedBy": [
+            "66207071895766"
+          ]
+        }
+      ]
+    },
+    {
+      "serialNumber": 7,
+      "datetime": "2025-06-16T20:42:32.000Z",
+      "messageId": "D2D55276EE86CC28ACC3619684A48025",
+      "sender": {
+        "id": "972532778923@c.us",
+        "pushname": "יואל מרקו",
+        "phone": "972532778923"
+      },
+      "body": "[No text]",
+      "replyTo": null,
+      "reactions": null
+    },
+    {
+      "serialNumber": 8,
+      "datetime": "2025-06-17T06:10:14.000Z",
+      "messageId": "89D56321884C13CCB753560B3E0054FC",
+      "sender": {
+        "id": "972532778923@c.us",
+        "pushname": "יואל מרקו",
+        "phone": "972532778923"
+      },
+      "body": "נראה שיש תמימות דעים בעניין",
+      "replyTo": null,
+      "reactions": null
+    },
+    {
+      "serialNumber": 9,
+      "datetime": "2025-06-19T05:41:22.000Z",
+      "messageId": "3D16D9218B59419940AAF77277BF685C",
+      "sender": {
+        "id": "972549767907@c.us",
+        "phone": "972549767907"
+      },
+      "body": "תגידו מישהו הבין מה נסגר עם הקורס עם השינויים בלימודים?",
+      "replyTo": null,
+      "reactions": null
+    },
+    {
+      "serialNumber": 10,
+      "datetime": "2025-06-19T05:59:12.000Z",
+      "messageId": "F471BDE13364BAC201FF59F3ED753309",
+      "sender": {
+        "id": "972544403396@c.us",
+        "phone": "972544403396"
+      },
+      "body": "לא",
+      "replyTo": {
+        "ref": "3D16D9218B59419940AAF77277BF685C",
+        "author": "208022462832889@lid",
+        "body": "תגידו מישהו הבין מה נסגר עם הקורס עם השינויים בלימודים?"
+      },
+      "reactions": null
+    },
+    {
+      "serialNumber": 11,
+      "datetime": "2025-06-19T05:59:18.000Z",
+      "messageId": "73261F60AF7926AAAC0DB9F2D3C06102",
+      "sender": {
+        "id": "972544403396@c.us",
+        "phone": "972544403396"
+      },
+      "body": "מישהו שלח מייל למרצה/מתרגל?",
+      "replyTo": null,
+      "reactions": null
+    },
+    {
+      "serialNumber": 12,
+      "datetime": "2025-06-19T06:27:31.000Z",
+      "messageId": "EDE123BEFFEE2D252FA480E4D5941709",
+      "sender": {
+        "id": "972586412373@c.us",
+        "phone": "972586412373"
+      },
+      "body": "שלחו עכשיו מייל",
+      "replyTo": null,
+      "reactions": null
+    },
+    {
+      "serialNumber": 13,
+      "datetime": "2025-06-19T06:27:54.000Z",
+      "messageId": "D53B0AE731DCFB44692FCD6AA4B28015",
+      "sender": {
+        "id": "972586412373@c.us",
+        "phone": "972586412373"
+      },
+      "body": "נראה שנציג בזום",
+      "replyTo": null,
+      "reactions": null
+    },
+    {
+      "serialNumber": 14,
+      "datetime": "2025-06-24T19:13:41.000Z",
+      "messageId": "3F51CC3C77F47A7106FD",
+      "sender": "Unknown Member",
+      "body": "היי, עדכנו במקרה מתי ההצגת פרויקטים בסוף?",
+      "replyTo": null,
+      "reactions": null
+    },
+    {
+      "serialNumber": 15,
+      "datetime": "2025-06-24T19:13:55.000Z",
+      "messageId": "3FEDB0D94704EDB44418",
+      "sender": "Unknown Member",
+      "body": "כאילו יש איזה שינויים בגלל המלחמה?",
+      "replyTo": null,
+      "reactions": null
+    },
+    {
+      "serialNumber": 16,
+      "datetime": "2025-06-25T05:09:20.000Z",
+      "messageId": "EAB83BA0AC26352FDD0A3239781286BB",
+      "sender": {
+        "id": "972549767907@c.us",
+        "phone": "972549767907"
+      },
+      "body": "היא שלחה מייל שזה הולך להיות בזום ומי שרוצה לשנות תאריך שידבר איתה",
+      "replyTo": null,
+      "reactions": null
+    },
+    {
+      "serialNumber": 17,
+      "datetime": "2025-06-28T08:49:04.000Z",
+      "messageId": "3F45CE8BF47F38126DDA",
+      "sender": "Unknown Member",
+      "body": "היי\nבהגשה של הפרויקט צריך להגיש רק את הפרזנטציה (כלומר המצגת) או את כל הקוד שלנו?",
+      "replyTo": null,
+      "reactions": null
+    },
+    {
+      "serialNumber": 18,
+      "datetime": "2025-06-29T07:26:31.000Z",
+      "messageId": "EC20CC6D7CFAD7AF1842A284C8B8C386",
+      "sender": "Unknown Member",
+      "body": "?",
+      "replyTo": {
+        "ref": "3F45CE8BF47F38126DDA",
+        "author": "972546374390@c.us",
+        "body": "היי\nבהגשה של הפרויקט צריך להגיש רק את הפרזנטציה (כלומר המצגת) או את כל הקוד שלנו?"
+      },
+      "reactions": null
+    },
+    {
+      "serialNumber": 19,
+      "datetime": "2025-06-29T12:05:59.000Z",
+      "messageId": "051305277F692047F850EE4922BDE500",
+      "sender": {
+        "id": "972586412373@c.us",
+        "phone": "972586412373"
+      },
+      "body": "נראה לי אף אחד לא עונה כי אף אחד לא רוצה לקחת אחריות. לא תמיד מובן מה הם רוצים. אבל אני הבנתי שלא מגישים כלום אלא רק מציגים. ממילא, איך התכוונת להגיש? אני לא רואה תיבה מיועדת לזה במודל",
+      "replyTo": null,
+      "reactions": null
+    },
+    {
+      "serialNumber": 20,
+      "datetime": "2025-06-29T12:58:34.000Z",
+      "messageId": "3FC1A2BDF96A8BE07EEA",
+      "sender": "Unknown Member",
+      "body": "סגור תודה!",
+      "replyTo": null,
+      "reactions": null
+    },
+    {
+      "serialNumber": 21,
+      "datetime": "2025-06-29T13:09:02.000Z",
+      "messageId": "75AD316D3916A1CEF43DDD99F751E1CA",
+      "sender": {
+        "id": "972586412373@c.us",
+        "phone": "972586412373"
+      },
+      "body": "כמובן לא לוקח אחריות😂",
+      "replyTo": null,
+      "reactions": null
+    },
+    {
+      "serialNumber": 22,
+      "datetime": "2025-06-30T08:18:54.000Z",
+      "messageId": "3F3C061D38EDD167664A",
+      "sender": {
+        "id": "972544243219@c.us",
+        "phone": "972544243219"
+      },
+      "body": "למי שלא היה מור אמרה עכשיו שהיא תוסיף הגשה של המצגת במודל, אז נשמע שצריך להגיש רק את המצגת",
+      "replyTo": null,
+      "reactions": [
+        {
+          "emoji": "🙏",
+          "count": 1,
+          "reactedBy": [
+            "972546374390"
+          ]
+        }
+      ]
+    },
+    {
+      "serialNumber": 23,
+      "datetime": "2025-08-18T08:34:00.000Z",
+      "messageId": "F2B7572B51363423CD5E0CF5025336D8",
+      "sender": {
+        "id": "972503415380@c.us",
+        "phone": "972503415380"
+      },
+      "body": "יש ציונים בקורס",
+      "replyTo": null,
+      "reactions": [
+        {
+          "emoji": "🙏",
+          "count": 2,
+          "reactedBy": [
+            "198878561353935",
+            "31602503643338"
+          ]
+        },
+        {
+          "emoji": "👍",
+          "count": 1,
+          "reactedBy": [
+            "200721135837270"
+          ]
+        }
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "id": "972524085511@c.us",
+      "name": "גל מדמח",
+      "shortName": "גל",
+      "phone": null
+    },
+    {
+      "id": "972548181489@c.us",
+      "pushname": "Amir Or",
+      "phone": "972548181489"
+    },
+    {
+      "id": "972525330212@c.us",
+      "pushname": "Eitan Samson",
+      "phone": "972525330212"
+    },
+    {
+      "id": "972509342360@c.us",
+      "pushname": "Noam",
+      "phone": "972509342360"
+    },
+    {
+      "id": "972552272711@c.us",
+      "pushname": "Roi",
+      "phone": "972552272711"
+    },
+    {
+      "id": "972546374390@c.us",
+      "pushname": "Yonatan Ezra",
+      "phone": null
+    },
+    {
+      "id": "972532778923@c.us",
+      "pushname": "יואל מרקו",
+      "phone": "972532778923"
+    },
+    {
+      "id": "972525460507@c.us",
+      "pushname": "עדי ייפרואימסקי",
+      "phone": "972525460507"
+    },
+    {
+      "id": "972556609394@c.us",
+      "pushname": "עמית אלפר",
+      "phone": "972556609394"
+    },
+    {
+      "id": "972503723369@c.us",
+      "pushname": "שי ברגמן",
+      "phone": "972503723369"
+    },
+    {
+      "id": "972525993361@c.us",
+      "phone": "972525993361"
+    },
+    {
+      "id": "972534327448@c.us",
+      "phone": "972534327448"
+    },
+    {
+      "id": "972503415380@c.us",
+      "phone": "972503415380"
+    },
+    {
+      "id": "972548198535@c.us",
+      "phone": "972548198535"
+    },
+    {
+      "id": "972527535122@c.us",
+      "phone": "972527535122"
+    },
+    {
+      "id": "972585519051@c.us",
+      "phone": "972585519051"
+    },
+    {
+      "id": "972525219377@c.us",
+      "phone": "972525219377"
+    },
+    {
+      "id": "972544243219@c.us",
+      "phone": "972544243219"
+    },
+    {
+      "id": "972549767907@c.us",
+      "phone": "972549767907"
+    },
+    {
+      "id": "972538212418@c.us",
+      "phone": "972538212418"
+    },
+    {
+      "id": "972537133449@c.us",
+      "phone": "972537133449"
+    },
+    {
+      "id": "972539219666@c.us",
+      "phone": "972539219666"
+    },
+    {
+      "id": "972586412373@c.us",
+      "phone": "972586412373"
+    },
+    {
+      "id": "972543554912@c.us",
+      "phone": "972543554912"
+    },
+    {
+      "id": "972546966642@c.us",
+      "phone": "972546966642"
+    },
+    {
+      "id": "972527755357@c.us",
+      "phone": "972527755357"
+    },
+    {
+      "id": "972527342769@c.us",
+      "phone": "972527342769"
+    },
+    {
+      "id": "972544403396@c.us",
+      "phone": "972544403396"
+    },
+    {
+      "id": "972587910175@c.us",
+      "phone": "972587910175"
+    },
+    {
+      "id": "972523979733@c.us",
+      "phone": "972523979733"
+    },
+    {
+      "id": "972509889307@c.us",
+      "phone": "972509889307"
+    }
+  ]
+}
