@@ -131,12 +131,16 @@ We annotated the same mini dataset with GPT-4o-mini and GPT-5. The distributions
 
 ##  Project team:
 
-**Natanel Richey**
-**Yehonatan Ezra**
-**Jonatan Vider**.
+- **Yehonatan Ezra**
+- **Natanel Richey**
+- **Jonatan Vider**
+
+
+
 
 See the project summary (PDF) for additional details.
 
 ---
+
 
 
