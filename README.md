@@ -15,47 +15,7 @@ A desktop WhatsApp data collector (Electron + `@open-wa/wa-automate`) and an LLM
   * *Psychology groups vs CS groups* on positivity, helpfulness, gratitude, message richness, and emoji warmth (large practical differences).
   * *No clear semester-long decline* in mood: weekly heatmaps/timelines show broadly stable emotional patterns.
 
----
 
-## 📦 Repository Structure
-
-```
-.
-├─ whatsapp-crawler-electron/        # Desktop data collector (Electron)
-│  ├─ backend/
-│  │  ├─ crawl-service.js            # Group discovery, message export, progress
-│  │  ├─ enrichment.js               # Replies, reactions, sender resolution
-│  │  ├─ participants.js             # Identity merging & participant info
-│  │  ├─ exporter.js
-│  │  ├─ messageUtils.js
-│  │  └─ auth-process.js
-│  ├─ renderer/                      # UI (HTML/JS/CSS)
-│  ├─ main.js, preload.js
-│  ├─ package.json
-│  ├─ start.sh, build.sh
-│
-├─ setiment_analysis_LLM/            # LLM sentiment pipeline (name kept as-is)
-│  ├─ sentiment_analysis_pipeline.py # Batched OpenAI annotation + post-pass
-│  └─ SentimentAnalysis_output/      # Per-category JSON outputs
-│
-├─ WhatsappData/                     # Raw WhatsApp JSON exports (by category)
-│  ├─ CS/
-│  ├─ Psychology & Biology/
-│  └─ General Courses and Groups/
-│
-└─ Results/                          # Plots, comparisons, heatmaps
-   ├─ PSY_vs_CS_raw_data.csv
-   ├─ PSY_vs_CS_viz.png
-   ├─ Compare_ai_models/
-   │  ├─ Evaluation/
-   │  │  └─ mini_db_demo.sentiment_4o_mini.json
-   │  └─ plots/
-   │     └─ model_comparison_overview.png
-   └─ heatmap/
-      ├─ WeeklyEmotion_Semester_Timeline.jpg
-      ├─ Weekly_sentiment_analysis.jpg
-      └─ weeklyEmotionAndStress.jpg
-```
 
 ---
 
@@ -125,7 +85,47 @@ We annotated the same mini dataset with GPT-4o-mini and GPT-5. The distributions
 <img width="906" height="304" alt="image" src="https://github.com/user-attachments/assets/809a05cb-4c55-40f2-b0e6-f12fac920a02" />
 
 
+---
 
+##  Repository Structure
+
+```
+.
+├─ whatsapp-crawler-electron/        # Desktop data collector (Electron)
+│  ├─ backend/
+│  │  ├─ crawl-service.js            # Group discovery, message export, progress
+│  │  ├─ enrichment.js               # Replies, reactions, sender resolution
+│  │  ├─ participants.js             # Identity merging & participant info
+│  │  ├─ exporter.js
+│  │  ├─ messageUtils.js
+│  │  └─ auth-process.js
+│  ├─ renderer/                      # UI (HTML/JS/CSS)
+│  ├─ main.js, preload.js
+│  ├─ package.json
+│  ├─ start.sh, build.sh
+│
+├─ setiment_analysis_LLM/            # LLM sentiment pipeline (name kept as-is)
+│  ├─ sentiment_analysis_pipeline.py # Batched OpenAI annotation + post-pass
+│  └─ SentimentAnalysis_output/      # Per-category JSON outputs
+│
+├─ WhatsappData/                     # Raw WhatsApp JSON exports (by category)
+│  ├─ CS/
+│  ├─ Psychology & Biology/
+│  └─ General Courses and Groups/
+│
+└─ Results/                          # Plots, comparisons, heatmaps
+   ├─ PSY_vs_CS_raw_data.csv
+   ├─ PSY_vs_CS_viz.png
+   ├─ Compare_ai_models/
+   │  ├─ Evaluation/
+   │  │  └─ mini_db_demo.sentiment_4o_mini.json
+   │  └─ plots/
+   │     └─ model_comparison_overview.png
+   └─ heatmap/
+      ├─ WeeklyEmotion_Semester_Timeline.jpg
+      ├─ Weekly_sentiment_analysis.jpg
+      └─ weeklyEmotionAndStress.jpg
+```
 
 ---
 
@@ -138,4 +138,5 @@ We annotated the same mini dataset with GPT-4o-mini and GPT-5. The distributions
 See the project summary (PDF) for additional details.
 
 ---
+
 
